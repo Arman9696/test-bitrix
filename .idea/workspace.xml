@@ -23,30 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b892bca3-3db0-4aac-a795-c805b040178f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.idea/Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/404.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/local/components/bitrix/MainSlider/class.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/local/components/bitrix/MainSlider/templates/.default/template.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/local/php_interface/init.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/local/templates/.default/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/local/templates/.default/header.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Base/Actions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Base/Helper.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Base/HighLoadBlock.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Base/Load.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Base/Recaptcha.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Base/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Composer/Check.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controllers/InteractiveBanner.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forms/FormsHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Migrations/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list id="c11eed50-08c7-4dfd-a57c-8f0a0fafbe66" name="Revert &quot;Initial commit&quot;" comment="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 05714a8b" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +36,13 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1-B" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -162,6 +147,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../magnit-ru" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -191,6 +177,7 @@
       <workItem from="1611230416177" duration="20375000" />
       <workItem from="1611251877510" duration="206000" />
       <workItem from="1611252466729" duration="2612000" />
+      <workItem from="1611304347036" duration="313000" />
     </task>
     <servers />
   </component>
