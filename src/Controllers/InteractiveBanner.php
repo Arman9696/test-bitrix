@@ -107,7 +107,7 @@ class InteractiveBanner
 
             if($query->getSelectedRowsCount()) {
                 while ($aQuery = $query->fetch()) {
-                    $aData = [
+                    $aData [] = [
                         'ID' => $aQuery['ID'],
                         'NAME' => $aQuery['NAME'],
                         'PREVIEW_PICTURE' => $aQuery['PREVIEW_PICTURE'] ? \CFile::GetPath($aQuery['PREVIEW_PICTURE']) : null,
