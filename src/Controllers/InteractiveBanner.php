@@ -15,7 +15,7 @@ class InteractiveBanner
     private $iBlockId;
 
     /**
-     *Конструктор
+     * Конструктор
      */
     public function __construct()
     {
